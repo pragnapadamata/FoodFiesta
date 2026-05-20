@@ -8,6 +8,11 @@ The project can also be configured to use PostgreSQL for deployment or productio
 
 `#SpringBoot` `#Java21` `#RestAPI` `#BackendProject` `#H2Database` `#PostgreSQL` `#Thymeleaf` `#FullstackProject`
 
+## Project Team
+
+- Pragnapadamata
+- Rishitha Gadiraju
+
 ---
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -144,7 +149,7 @@ Docker and PostgreSQL are only needed if you choose the PostgreSQL/Docker setup.
 Clone the project:
 
 ```bash
-git clone https://github.com/imrajeevnayan/Food-Fiesta.git
+git clone https://github.com/pragnapadamata/Food-Fiesta.git
 cd Food-Fiesta
 ```
 

@@ -8,11 +8,11 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.org</groupId>
+	<groupId>com.pragnapadamata</groupId>
 	<artifactId>FoodFiesta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Food Fiesta</name>
-	<description>Food Fiesta - Premium Dining Management</description>
+	<description>Food Fiesta - Premium Dining Management by Pragnapadamata and Rishitha Gadiraju</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
