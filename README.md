@@ -252,7 +252,3 @@ On Windows:
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-Developed by **imrajeevnayan**
